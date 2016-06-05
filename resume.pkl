@@ -1,0 +1,147 @@
+(dp0
+S'interests'
+p1
+(dp2
+S'arts'
+p3
+(dp4
+S'dance'
+p5
+(lp6
+S'salsa'
+p7
+aS'bachata'
+p8
+aS'hip hop'
+p9
+aS'bollywood'
+p10
+asS'singing'
+p11
+(lp12
+g10
+assS'outdoor'
+p13
+(lp14
+S'Hiking'
+p15
+aS'Wall Climbing'
+p16
+aS'Running'
+p17
+aS'Biking'
+p18
+aS'Free running'
+p19
+asS'literature'
+p20
+(lp21
+S'science fiction'
+p22
+aS'shayari'
+p23
+aS'small poems'
+p24
+asS'sports'
+p25
+(lp26
+S'Basketball'
+p27
+aS'Tennis'
+p28
+aS'Cricket'
+p29
+aS'Ping Pong'
+p30
+aS'Volleyball'
+p31
+aS'Squash'
+p32
+assS'name'
+p33
+(dp34
+S'last'
+p35
+S'Awari'
+p36
+sS'first'
+p37
+S'Deepak'
+p38
+ssS'skills'
+p39
+(dp40
+sS'contact'
+p41
+(dp42
+S'emailId'
+p43
+S'awari.deepak@gmail.com'
+p44
+sS'cellphone'
+p45
+S'607-379-7909'
+p46
+sS'portfolio'
+p47
+S'deepakawari.com'
+p48
+ssS'education'
+p49
+(dp50
+S'bachelor'
+p51
+(dp52
+S'major'
+p53
+S'Electronics and Communications Engineering'
+p54
+sS'degree'
+p55
+S'Bachelor of Engineering'
+p56
+sS'University'
+p57
+S'Visvesvaraya Technological University'
+p58
+sS'gpa'
+p59
+F9.21
+sS'max_gpa'
+p60
+F10.0
+sS'college'
+p61
+S'B V Bhoomaraddi College of Engineering and Technology'
+p62
+sS'location'
+p63
+S'Vidyanagar, Hubli, Karnataka, India 580031'
+p64
+ssS'master'
+p65
+(dp66
+g53
+S'Electrical and Computer Engineering'
+p67
+sg55
+S'Master of Engineering'
+p68
+sS'university'
+p69
+S'Cornell University'
+p70
+sg59
+F3.7
+sg60
+F4.0
+sg61
+S'College of Engineering'
+p71
+sg63
+S'Ithaca, NY, United States 14850'
+p72
+sssS'projects'
+p73
+(dp74
+s.
